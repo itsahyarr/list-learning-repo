@@ -13,7 +13,7 @@
 - [Resources for Beginner Bug Bounty Hunter](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters)
 
 
-### Tools ###
+## Tools ##
 ### AI, ML, DL ###
 - [Label Img](https://github.com/tzutalin/labelImg)
 - [Darknet](https://github.com/AlexeyAB/darknet)
